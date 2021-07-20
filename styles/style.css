@@ -1,0 +1,55 @@
+.header {
+    background-color: #152B3C;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headline {
+    font-weight: 300;
+    font-size: 42px;
+    line-height: 50px;
+    color: #FBF2DA;
+}
+
+.main-nav-list + .main-nav-item {
+    color: black;
+}
+
+.main-nav-list {
+    display: inline;
+}
+
+.main-nav-item {
+    text-decoration: none;
+    color: #FBF2DA;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+#master-class {
+    color: #D46240;
+}
+
+.phone-number {
+    color: #FBF2DA;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 33px;
+}
+
+.promo-title {
+    font-weight: 300;
+    font-size: 116px;
+    line-height: 136px;  
+    text-align: center; 
+}
+
+.promo p {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    text-align: center;
+}
